@@ -4,4 +4,4 @@ spring:
       name: base
       profile: dev
       label: master
-      uri: http://192.168.159.129:12000
+      uri: http://106.52.236.254:12000
