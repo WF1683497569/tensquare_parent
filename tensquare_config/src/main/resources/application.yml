@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/wf1683497569/tensquare.git
+          uri: https://github.com/WF1683497569/tensquare.git
   rabbitmq:
     host: 192.168.159.129
 management:
